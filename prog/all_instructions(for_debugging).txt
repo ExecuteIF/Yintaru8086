@@ -1,0 +1,18 @@
+ret
+get
+prt
+inc
+dec
+clr
+cpy
+nxt
+pre
+mva
+mvb
+add
+sub
+tag
+jmp
+jnz
+
+give @p minecraft:cyan_shulker_box{BlockEntityTag:{Items:[{Slot:0,id:"minecraft:diamond",Count:1,tag:{display:{Name:"{\"text\":\"0\"}"}}},{Slot:1,id:"minecraft:diamond",Count:1,tag:{display:{Name:"{\"text\":\"1\"}"}}},{Slot:2,id:"minecraft:diamond",Count:1,tag:{display:{Name:"{\"text\":\"2\"}"}}},{Slot:3,id:"minecraft:diamond",Count:1,tag:{display:{Name:"{\"text\":\"3\"}"}}},{Slot:4,id:"minecraft:diamond",Count:1,tag:{display:{Name:"{\"text\":\"4\"}"}}},{Slot:5,id:"minecraft:diamond",Count:1,tag:{display:{Name:"{\"text\":\"5\"}"}}},{Slot:6,id:"minecraft:diamond",Count:1,tag:{display:{Name:"{\"text\":\"6\"}"}}},{Slot:7,id:"minecraft:diamond",Count:1,tag:{display:{Name:"{\"text\":\"7\"}"}}},{Slot:8,id:"minecraft:diamond",Count:1,tag:{display:{Name:"{\"text\":\"8\"}"}}},{Slot:9,id:"minecraft:diamond",Count:1,tag:{display:{Name:"{\"text\":\"9\"}"}}},{Slot:10,id:"minecraft:diamond",Count:1,tag:{display:{Name:"{\"text\":\"a\"}"}}},{Slot:11,id:"minecraft:diamond",Count:1,tag:{display:{Name:"{\"text\":\"b\"}"}}},{Slot:12,id:"minecraft:diamond",Count:1,tag:{display:{Name:"{\"text\":\"c\"}"}}},{Slot:13,id:"minecraft:diamond",Count:1,tag:{display:{Name:"{\"text\":\"d\"}"}}},{Slot:14,id:"minecraft:diamond",Count:1,tag:{display:{Name:"{\"text\":\"e\"}"}}},{Slot:15,id:"minecraft:diamond",Count:1,tag:{display:{Name:"{\"text\":\"f\"}"}}}]}}
